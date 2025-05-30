@@ -1,11 +1,11 @@
 [project]
 name = "zwppt-mcp"
-version = "0.0.3"
+version = "0.0.1"
 description = "ZWPPT-MCP: 讯飞智能PPT生成服务MCPServer，支持MCP协议和uvx一键启动。"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    {name = "gyli16", email = "gyli16@iflytek.com"}
+    {name = "lxwang12", email = "lxwang12@iflytek.com"}
 ]
 license = {text = "MIT"}
 classifiers = [
